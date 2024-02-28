@@ -6,4 +6,4 @@
 このリポジトリのタスクはプロジェクトにて管理されています。
 タスクの追加・進行・完了時は、プロジェクトの更新も忘れないようにしてください。
 
-https://github.com/{supermossmoss}/lp-practice-static/projects/1
+https://github.com/users/supermossmoss/projects/4/views/1
